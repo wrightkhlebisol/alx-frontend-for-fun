@@ -1,0 +1,10 @@
+/* 1-color_variable */
+$test-color: #3D3D3D;
+
+body {
+    color: $test-color;
+}
+
+p {
+    color: $test-color;
+}
