@@ -1,0 +1,6 @@
+/* 100-loop_col.scss */
+@for $i from 1 to 5 {
+    .col-#{$i} {
+        width: calc(100% / $i);
+    }
+}
