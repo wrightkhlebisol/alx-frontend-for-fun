@@ -3,7 +3,8 @@
     font-size: 12px;
 }
 
-.info {
+.warning {
+    color: #FF0000;
     @extend %font-size;
 }
 
@@ -12,7 +13,7 @@
     @extend %font-size;
 }
 
-.warning {
-    color: #FF0000;
+.info {
     @extend %font-size;
 }
+
