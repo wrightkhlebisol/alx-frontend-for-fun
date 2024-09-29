@@ -1,2 +1,2 @@
 # alx-frontend-for-fun
-# Sass and Scss
+## Sass and Scss
